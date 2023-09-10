@@ -1,14 +1,14 @@
 ![MasterHead](https://theacemakers.com/wp-content/uploads/2020/05/coustom-web.gif)
 <h1 align="center">Hi 👋, I'm Aritra Konar</h1>
-<h3 align="center">A passionate frontend Web Developer from India</h3>
+<h3 align="center">A passionate Web Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aritra203&label=Profile%20views&color=0e75b6&style=flat" alt="aritra203" /> </p>
 
 - 🔭 I’m currently working on **A website**
 
-- 🌱 I’m currently learning **Web Development bootcamp 2022**
+- 🌱 I’m currently learning **Node Js**
 
-- 💬 Ask me about **Android, C/C++,**
+- 💬 Ask me about **React Js, Next Js, Backend, UI/UX Design, C/C++,**
 
 - 📫 How to reach me **konararitra72@gmail.com**
 
