@@ -14,9 +14,9 @@
 
 - ⚡ Fun fact **I think I am very Funny**
 
-- [![trophy](https://github-profile-trophy.vercel.app/?username=Aritra203&theme=onedark)](https://github.com/Aritra203/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Aritra203&theme=onedark)](https://github.com/Aritra203/github-profile-trophy)
 
-- [![An image of @aritra203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aritra203)](https://holopin.io/@aritra203)
+[![An image of @aritra203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aritra203)](https://holopin.io/@aritra203)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
