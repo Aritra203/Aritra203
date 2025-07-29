@@ -46,5 +46,5 @@ src="https://img.shields.io/twitter/follow/aritrakonar03?logo=twitter&style=for-
 [![An image of @aritra203's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aritra203)](https://holopin.io/@aritra203)
 
 ### 😭 help! Snake is eating my contributions
-![Snake animation](github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Aritra203/Aritra203/blob/output/github-contribution-grid-snake-dark.svg)
 
