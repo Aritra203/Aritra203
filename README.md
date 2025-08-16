@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I am a 2nd year IT student at University Institute of Technology, BU. I am passionate about algorithms and web development. I love fixing broken codes and building website from scratch.
+I am a 4th year IT student at University Institute of Technology, BU. I am passionate about algorithms and web development. I love fixing broken codes and building website from scratch.
 
 * 🌍  I'm based in Burdwan
 * ✉️  You can contact me at [konararitra72@gmail.com](mailto:konararitra72@gmail.com)
