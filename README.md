@@ -47,4 +47,3 @@ src="https://img.shields.io/twitter/follow/aritrakonar03?logo=twitter&style=for-
 
 ### 😭 help! Snake is eating my contributions
 ![Snake animation](https://github.com/Aritra203/Aritra203/blob/output/github-contribution-grid-snake-dark.svg)
-
